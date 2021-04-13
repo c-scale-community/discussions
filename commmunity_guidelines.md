@@ -28,9 +28,9 @@ GitHub discussions provide tools that enable the community to collectively ident
 Let’s leave our community better than we found it.
 
 ## If You See a Problem, Let Us Know
-[Moderators](mailto:community@c-scale.eu) have special authority; they are responsible for this forum. But so are you. With your help, moderators can be community facilitators, not just janitors or police.
+[Moderators](https://github.com/orgs/c-scale-community/people?query=role%3Aowner) have special authority; they are responsible for this forum. But so are you. With your help, moderators can be community facilitators, not just janitors or police.
 
-When you see bad behavior, don’t reply. It encourages the bad behavior by acknowledging it, consumes your energy, and wastes everyone’s time. Just **copy the link to the comment** and contact the [moderators](mailto:community@c-scale.eu), who will take appropriate action.
+When you see bad behavior, don’t reply. It encourages the bad behavior by acknowledging it, consumes your energy, and wastes everyone’s time. Just **copy the link to the comment** and contact the [moderators](https://github.com/orgs/c-scale-community/people?query=role%3Aowner) at [community@c-scale.eu](mailto:community@c-scale.eu), who will take appropriate action.
 
 In order to maintain our community, moderators reserve the right to remove any content and any user account for any reason at any time. Moderators do not preview new posts; the moderators and site operators take no responsibility for any content posted by the community.
 
@@ -61,7 +61,7 @@ Rather than posting “+1” or “Agreed”, use the Like button. Rather than t
 You may not post anything digital that belongs to someone else without permission. You may not post descriptions of, links to, or methods for stealing someone’s intellectual property (software, video, audio, images), or for breaking any other law.
 
 ## Powered by You
-This site is operated by your friendly [C-SCALE partners](https://c-scale.eu/partners/) and **you**, the community. If you have any further questions about how things should work here, open a new topic in the [discussions](https://github.com/c-scale-community/discussions/discussions) and let’s discuss! If there’s a critical or urgent issue that can’t be handled by a meta topic or flag, contact us at [community@c-scale.eu](mailto:community@c-scale.eu).
+This site is operated by your friendly [moderators](https://github.com/orgs/c-scale-community/people?query=role%3Aowner) and **you**, the community. If you have any further questions about how things should work here, open a new topic in the [discussions](https://github.com/c-scale-community/discussions/discussions) and let’s discuss! If there’s a critical or urgent issue that can’t be handled by a meta topic or flag, contact us at [community@c-scale.eu](mailto:community@c-scale.eu).
 
 ## Can't find what you're looking for?
 If you have a specific question about something not covered in this topic, why not [start a new one](https://github.com/c-scale-community/discussions/discussions/new).
