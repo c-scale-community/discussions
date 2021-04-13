@@ -18,7 +18,7 @@ The forum **augments**, but does not **replace**:
 * **Project-specific documentation pages**: such as Confluence. These are often expected to be authoritative sources of information. While the forum can function as such, the decision of where to send people searching for authoritative documentation is left to the community in question. There will often be a cross-pollination of these sources.
 
 ### Discussion
-The primary use of this forum is for [_discussion_](https://github.com/c-scale-community/discussions/discussions). Discussions can be open-ended, and is best when there is a sincere exchange of opinions. Our [community guidelines](...) describe what is considered good practice and encourage positive behaviour. Topics will be moderated by our [moderators](mailto:community@c-scale.eu), and may be edited for style and clarity. Please engage with them, and perhaps become a moderator yourself.
+The primary use of this forum is for [_discussion_](https://github.com/c-scale-community/discussions/discussions). Discussions can be open-ended, and is best when there is a sincere exchange of opinions. Our [community guidelines](https://github.com/c-scale-community/discussions/blob/main/commmunity_guidelines.md) describe what is considered good practice and encourage positive behaviour. Topics will be moderated by our [moderators](mailto:community@c-scale.eu), and may be edited for style and clarity. Please engage with them, and perhaps become a moderator yourself.
 
 #### Public, private and protected
 Discussion is best held in the open – you never know where your best idea will come from, and diverse opinions and viewpoints are good for a healthy community. The default setting of all topics is therefore for all community members to be able to post and contribute to discussions. However, there are several cases where protected or private discussion are more desirable:
@@ -34,7 +34,7 @@ We encourage questions. We value being welcoming and courteous.
 
 To ask questions, please go to the [discussions](https://github.com/c-scale-community/discussions/discussions) tab and click on `New discussion`. Under `Select Category`, select `Q&A`, provide a _human readable_ title and ask your question and click `Start discussion`.
 
-We ask that you adhere to our [community guidelines](...).
+We ask that you adhere to our [community guidelines](https://github.com/c-scale-community/discussions/blob/main/commmunity_guidelines.md).
 
 ### Community engagement
 The forum serves the purpose of community engagement in several ways. In particular:
