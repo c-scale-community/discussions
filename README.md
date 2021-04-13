@@ -18,14 +18,14 @@ The forum **augments**, but does not **replace**:
 * **Project-specific documentation pages**: such as Confluence. These are often expected to be authoritative sources of information. While the forum can function as such, the decision of where to send people searching for authoritative documentation is left to the community in question. There will often be a cross-pollination of these sources.
 
 ### Discussion
-The primary use of this forum is for [_discussion_](https://github.com/c-scale-community/discussions/discussions). Discussions can be open-ended, and is best when there is a sincere exchange of opinions. Our [community guidelines](https://github.com/c-scale-community/discussions/blob/main/commmunity_guidelines.md) describe what is considered good practice and encourage positive behaviour. Topics will be moderated by our [moderators](mailto:community@c-scale.eu), and may be edited for style and clarity. Please engage with them, and perhaps become a moderator yourself.
+The primary use of this forum is for [_discussion_](https://github.com/c-scale-community/discussions/discussions). Discussions can be open-ended, and is best when there is a sincere exchange of opinions. Our [community guidelines](https://github.com/c-scale-community/discussions/blob/main/commmunity_guidelines.md) describe what is considered good practice and encourage positive behaviour. Topics will be moderated by our [moderators](https://github.com/orgs/c-scale-community/people?query=role%3Aowner), and may be edited for style and clarity. Please engage with them, and perhaps become a moderator yourself.
 
 #### Public, private and protected
 Discussion is best held in the open – you never know where your best idea will come from, and diverse opinions and viewpoints are good for a healthy community. The default setting of all topics is therefore for all community members to be able to post and contribute to discussions. However, there are several cases where protected or private discussion are more desirable:
 1. **Internal discussions** for sub-groups: Some things work better with a smaller audience and confidentiality. We can create teams of people, working on specific topics faciliate discussions only visible to members of those groups.
 2. **Authoritiative topics**: Certain categories can be made such that only members of privileged groups can post there, making the topics authoritative.
 
-Please contact our [moderators](mailto:community@c-scale.eu) if you would like set up protected or private discussions.
+Please contact our [moderators](https://github.com/orgs/c-scale-community/people?query=role%3Aowner) at[community@c-scale.eu](mailto:community@c-scale.eu) if you would like set up protected or private discussions.
 
 Bear in mind that the forum staff will still be able to see all private topics and categories. We choose our staff to be people of the highest integrity, so who can be trusted to be unbiased, dutiful and fair in moderating and managing the community.
 
