@@ -25,7 +25,7 @@ Discussion is best held in the open – you never know where your best idea will
 1. **Internal discussions** for sub-groups: Some things work better with a smaller audience and confidentiality. We can create teams of people, working on specific topics faciliate discussions only visible to members of those groups.
 2. **Authoritiative topics**: Certain categories can be made such that only members of privileged groups can post there, making the topics authoritative.
 
-Please contact our [moderators](https://github.com/orgs/c-scale-community/people?query=role%3Aowner) at[community@c-scale.eu](mailto:community@c-scale.eu) if you would like set up protected or private discussions.
+Please contact our [moderators](https://github.com/orgs/c-scale-community/people?query=role%3Aowner) at [community@c-scale.eu](mailto:community@c-scale.eu) if you would like set up protected or private discussions.
 
 Bear in mind that the forum staff will still be able to see all private topics and categories. We choose our staff to be people of the highest integrity, so who can be trusted to be unbiased, dutiful and fair in moderating and managing the community.
 
