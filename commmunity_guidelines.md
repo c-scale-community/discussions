@@ -67,4 +67,4 @@ This site is operated by your friendly [C-SCALE partners](https://c-scale.eu/par
 If you have a specific question about something not covered in this topic, why not [start a new one](https://github.com/c-scale-community/discussions/discussions/new).
 
 ## Terms of Service
-Yes, legalese is boring, but we must protect ourselves – and by extension, you and your data – against unfriendly folks. We have a [Terms of Service](...) describing your (and our) behavior and rights related to content, privacy, and laws. To use this service, you must agree to abide by our [TOS](...).
+Yes, legalese is boring, but we must protect ourselves – and by extension, you and your data – against unfriendly folks. We have a [Terms of Service](https://github.com/c-scale-community/discussions/blob/main/TOC.md) describing your (and our) behavior and rights related to content, privacy, and laws. To use this service, you must agree to abide by our [TOS](https://github.com/c-scale-community/discussions/blob/main/TOC.md).
