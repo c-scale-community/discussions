@@ -1,3 +1,5 @@
+[<img src="logo-c-scale-horizontal-blue.png" width="30%" height="30%">](https://c-scale.eu/)
+
 # Welcome to the C-SCALE community
 
 ## About the C-SCALE community
