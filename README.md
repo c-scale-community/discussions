@@ -1,4 +1,4 @@
-[<img src="logo-c-scale-horizontal-blue.png" width="30%" height="30%">](https://c-scale.eu/)
+[<img src="imgs/logo-c-scale-horizontal-blue.png" width="30%" height="30%">](https://c-scale.eu/)
 
 # Welcome to the C-SCALE community
 
